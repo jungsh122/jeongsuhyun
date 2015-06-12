@@ -10,6 +10,8 @@ public class MainClass {
 		
 		D d=new D();
 		
+		E e=new E();
+		
 		System.out.println("연습입니다:P");
 	}
 }
