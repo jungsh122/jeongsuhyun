@@ -7,5 +7,7 @@ public class MainClass {
 		
 		B b=new B();
 		
+		C c=new C();
+		
 	}
 }
