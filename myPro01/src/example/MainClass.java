@@ -5,5 +5,7 @@ public class MainClass {
 		A a=new A();
 		System.out.println("연습입니다:P");
 		
+		B b=new B();
+		
 	}
 }
